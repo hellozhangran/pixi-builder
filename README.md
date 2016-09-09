@@ -7,3 +7,9 @@
  a. cnpm install pixi --save
  b. cnpm install webpack --save-dev
  c. cnpm install --save-dev babel-core babel-loader babel-preset-es2015
+
+
+
+
+##QA:
+1. `browserify-versionify`,`ify-loader`解决pixijs用webpack打包的问题，详细见：[链接](https://gist.github.com/oal/898df82fa64e54dd16d0)

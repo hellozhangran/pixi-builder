@@ -1,4 +1,4 @@
-import PIXI from 'pixi.js'; 
+import * as PIXI from 'pixi.js'; 
 var canvas = document.getElementById('canvas');
 var renderer = PIXI.autoDetectRenderer(960, 640,{
         view:canvas,

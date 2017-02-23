@@ -13,3 +13,4 @@
 
 ##QA:
 1. `browserify-versionify`,`ify-loader`解决pixijs用webpack打包的问题，详细见：[链接](https://gist.github.com/oal/898df82fa64e54dd16d0)
+2. import PIXI from 'pixi.js' => import * as PIXI from 'pixi.js'
